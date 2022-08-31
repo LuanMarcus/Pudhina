@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: Água na Educação
+subtitle: Projeto colaborativo para a construção de boas práticas de ensino da hidrologia
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>Teste</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p></p>
+	<p>Conheça o projeto em <strong> <a href="https://github.com/knhash/Pudhina"> introdução</a> </strong></p>
 </div>
